@@ -3,3 +3,5 @@
 This program is a task rabbit / craigslist clone. 
 
 == GEMS 
+
+haml, Bootstrap, simple_form 
